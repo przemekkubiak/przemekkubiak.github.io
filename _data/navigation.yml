@@ -5,5 +5,5 @@ uremain:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Features"
-    url: /features/
+  - title: "About"
+    url: /about/
