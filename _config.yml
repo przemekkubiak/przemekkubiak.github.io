@@ -90,6 +90,7 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
+# Defaults
 defaults:
   # _posts
   - scope:
