@@ -1,0 +1,2 @@
+permalink: /features/
+title: "Features"
