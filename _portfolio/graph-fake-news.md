@@ -1,7 +1,6 @@
 ---
 title: "Graph Neural Networks for Fake News Detection"
 excerpt: "Using GNNs to automatically flag fake news by incorporating social network information."
-link: http://url-you-want-linked
 
 ---
 
@@ -16,5 +15,5 @@ In this example, I am replicating the experimental setup of Dou et al. (2021) to
 
 {% include figure image_path="assets/images/propagation-graph.png" alt="placeholder image 1" caption="Sample propagation graph. The root node is the news post, and other nodes represent the users who shared the news. Dotted lines represent user engagement embeddings utilised in the model." %}
 
-The UPFD dataset is integrated into the PyG's torch_geometric.datasets package, with the user having the ability to specify the dataset (Politifact or Gossipcop) and the nod efeature type. To access the Google Colab notebook, click <a href="[url](https://github.com/przemekkubiak/graph-fake-news-detection/tree/main)">here</a>. 
+The UPFD dataset is integrated into the PyG's torch_geometric.datasets package, with the user having the ability to specify the dataset (Politifact or Gossipcop) and the node feature type. To access the Google Colab notebook, click <a href="[url](https://github.com/przemekkubiak/graph-fake-news-detection/tree/main)">here</a>. 
 
