@@ -4,6 +4,7 @@ excerpt: "Using GNNs to automatically flag fake news by incorporating social net
 gallery:
   - url: /assets/propagation-graph.png
     image_path: assets/propagation-graph.png
+    alt: "placeholder image 1"
 ---
 
 Hello.
