@@ -111,9 +111,11 @@ defaults:
       path: ""
       type: portfolio
     values:
+      read_time: true
       layout: single
       author_profile: true
       share: false
+      related: true
       
 
 category_archive:
