@@ -9,5 +9,7 @@ gallery:
 
 Hello.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/propagation-graph.png)
+
 {% include gallery caption="Sample propagation graph. The root node is the news post, and other nodes represent the users who shared the news. Dotted lines represent user engagement embeddings utilised in the model." %}
 
