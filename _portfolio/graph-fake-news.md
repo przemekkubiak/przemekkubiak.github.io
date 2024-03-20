@@ -17,11 +17,11 @@ In this example, I am replicating the experimental setup of Dou et al. (2021) to
 
 The UPFD dataset is integrated into the PyG's torch_geometric.datasets package, with the user having the ability to specify the dataset (Politifact or Gossipcop) and the node feature type. To access the Google Colab notebook, click <a href="[url](https://github.com/przemekkubiak/graph-fake-news-detection/tree/main)">here</a>. 
 
+
 References:
-Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. (2021). User Preference-aware Fake News Detection. arXiv [Cs.SI]. Retrieved from http://arxiv.org/abs/2104.12259
-S. Mo Jang, Joon K. Kim, Third person effects of fake news: Fake news regulation and media literacy interventions, Computers in Human Behavior, Volume 80, 2018, Pages 295-302, ISSN 0747-5632, https://doi.org/10.1016/j.chb.2017.11.034.
-Ngai CSB, Singh RG, Yao L. Impact of COVID-19 Vaccine Misinformation on Social Media Virality: Content Analysis of Message Themes and Writing Strategies. J Med Internet Res. 2022 Jul 6;24(7):e37806. doi: 10.2196/37806. PMID: 35731969; PMCID: PMC9301555. 
-Nguyen, V.-H., Sugiyama, K., Nakov, P., & Kan, M.-Y. (2020, October). FANG: Leveraging Social Context for Fake News Detection Using Graph Representation. Proceedings of the 29th ACM International Conference on Information & Knowledge Management. doi:10.1145/3340531.3412046
-
-
-
+<ul>
+  <li>Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. (2021). User Preference-aware Fake News Detection. arXiv [Cs.SI]. Retrieved from http://arxiv.org/abs/2104.12259</li>
+  <li>S. Mo Jang, Joon K. Kim, Third person effects of fake news: Fake news regulation and media literacy interventions, Computers in Human Behavior, Volume 80, 2018, Pages 295-302, ISSN 0747-5632, https://doi.org/10.1016/j.chb.2017.11.034.</li>
+  <li>Ngai CSB, Singh RG, Yao L. Impact of COVID-19 Vaccine Misinformation on Social Media Virality: Content Analysis of Message Themes and Writing Strategies. J Med Internet Res. 2022 Jul 6;24(7):e37806. doi: 10.2196/37806. PMID: 35731969; PMCID: PMC9301555. </li>
+  <li>Nguyen, V.-H., Sugiyama, K., Nakov, P., & Kan, M.-Y. (2020, October). FANG: Leveraging Social Context for Fake News Detection Using Graph Representation. Proceedings of the 29th ACM International Conference on Information & Knowledge Management. doi:10.1145/3340531.3412046</li>
+</ul>
