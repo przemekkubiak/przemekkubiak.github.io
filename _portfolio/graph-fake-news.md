@@ -15,7 +15,7 @@ In this example, I am replicating the experimental setup of Dou et al. (2021) to
 
 {% include figure image_path="assets/images/propagation-graph.png" alt="placeholder image 1" caption="Sample propagation graph. The root node is the news post, and other nodes represent the users who shared the news. Dotted lines represent user engagement embeddings utilised in the model." %}
 
-The UPFD dataset is integrated into the PyG's torch_geometric.datasets package, with the user having the ability to specify the dataset (Politifact or Gossipcop) and the node feature type. To access the Google Colab notebook, click <a href="[url](https://github.com/przemekkubiak/graph-fake-news-detection/tree/main)">here</a>. 
+The UPFD dataset is integrated into the PyG's torch_geometric.datasets package, with the user having the ability to specify the dataset (Politifact or Gossipcop) and the node feature type. To access the Google Colab notebook, click <a href="[url](https://github.com/przemekkubiak/graph-fake-news-detection/blob/main/graph_networks_upfd.ipynb)">here</a>. 
 
 
 References:
