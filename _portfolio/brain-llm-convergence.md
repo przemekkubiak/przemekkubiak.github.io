@@ -11,14 +11,14 @@ This project attempts to shed light on the differences and similarities between 
   <li>RQ3. What does the alignment between the language model and the brain tell us about howthey process language?</li>
 </ul>
 
+{% include figure image_path="assets/images/brains_pipeline.jpg" alt="placeholder image 1" caption="The model structure outlining the analysis process of this project. The left-hand-side corresponds to loading the text data from Wehbe et al. (2014). The bottom tiles represent the fMRI scanning performed by Wehbe et al. (2014), resulting in brain activity data. The top tiles depict the process of converting strings of text into SBERT embeddings. Both brain activity data and SBERT embeddings are then used to predict linguistic features, indicated by the right-hand-side tile.." %}
+
 The analysis of this study resulted in a finding that the components which are most aligned with specific brain regions are: embeddings from the final layer of SBERT (with right-hemisphere supramarginal gyrus), embeddings from the 2nd layer (with the triangularis in the right-hemisphere inferior frontal gyrus) and embeddings from the 5th layer (with the orbitalis in the right-hemisphere inferior frontal gyrus). The weakest alignment is observed for the attention heads from the first layer and for the triangularis in right-hemisphere inferior frontal gyrus. The overarching conclusion is that the alignment analysis unveils that SBERT is less sensitive to discourse-level structures than to syntactic structures, while the reverse is true for the brain.
 
 The GithHub repository for the project is available click <a href="https://github.com/przemekkubiak/brain-llm-convergence">here</a>. 
 
 References:
 <ul>
-  <li>Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. 2021. User Preference-aware Fake News Detection. arXiv [Cs.SI]. Retrieved from http://arxiv.org/abs/2104.12259</li>
-  <li>S. Mo Jang, Joon K. Kim. 2018. Third person effects of fake news: Fake news regulation and media literacy interventions. Computers in Human Behavior. Volume 80. Pages 295-302. ISSN 0747-5632. https://doi.org/10.1016/j.chb.2017.11.034.</li>
-  <li>Ngai CSB, Singh RG, Yao L. 2022. Impact of COVID-19 Vaccine Misinformation on Social Media Virality: Content Analysis of Message Themes and Writing Strategies. J Med Internet Res. Volume 24(7):e37806. doi: 10.2196/37806. PMID: 35731969; PMCID: PMC9301555. </li>
-  <li>Nguyen, V.-H., Sugiyama, K., Nakov, P., & Kan, M.-Y. 2020. FANG: Leveraging Social Context for Fake News Detection Using Graph Representation. Proceedings of the 29th ACM International Conference on Information & Knowledge Management. doi:10.1145/3340531.3412046</li>
+  <li>Nils Reimers and Iryna Gurevych. Sentence-bert: Sentence embeddings using siamese bert-networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Lan- guage Processing. Association for Computational Linguistics, 11 2019. URL https://arxiv.org/abs/1908.10084.</li>
+  <li>Wehbe L, Murphy B, Talukdar P, Fyshe A, Ramdas A, et al. (2014) Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses. PLoS ONE 9(11): e112575. doi:10.1371/journal.pone. 0112575.</li>
 </ul>
