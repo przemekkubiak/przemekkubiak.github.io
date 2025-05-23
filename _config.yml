@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Przemek Kubiak"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I am a Computational Linguist and an incoming postgraduate at the University of Cambridge."
+  bio    : "Hi! I am a Computational Linguist and a postgraduate at the University of Cambridge."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
