@@ -1,5 +1,5 @@
 ---
-title: "The Convergence Between a Transformer-based Text Encoder and Neural Activity in the Brain."
+title: "The Convergence Between a Transformer-based Text Encoder and Neural Activity in the Brain"
 excerpt: "Analysing the architectural and functional similarity between the brain and a langauge model."
 
 ---
