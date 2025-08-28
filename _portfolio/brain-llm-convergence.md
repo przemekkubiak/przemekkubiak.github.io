@@ -15,7 +15,7 @@ This project attempts to shed light on the differences and similarities between 
 
 The analysis of this study resulted in a finding that the components which are most aligned with specific brain regions are: embeddings from the final layer of SBERT (with right-hemisphere supramarginal gyrus), embeddings from the 2nd layer (with the triangularis in the right-hemisphere inferior frontal gyrus) and embeddings from the 5th layer (with the orbitalis in the right-hemisphere inferior frontal gyrus). The weakest alignment is observed for the attention heads from the first layer and for the triangularis in right-hemisphere inferior frontal gyrus. The overarching conclusion is that the alignment analysis unveils that SBERT is less sensitive to discourse-level structures than to syntactic structures, while the reverse is true for the brain.
 
-The GithHub repository for the project is available click <a href="https://github.com/przemekkubiak/brain-llm-convergence">here</a>. 
+The GithHub repository for the project is available <a href="https://github.com/przemekkubiak/brain-llm-convergence">here</a>. 
 
 References:
 <ul>
