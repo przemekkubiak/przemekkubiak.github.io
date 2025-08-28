@@ -21,7 +21,11 @@ Visualisation of the results is available below. A separate alignment analysis w
 
 {% include figure image_path="assets/images/top5.png" alt="brain image 2" caption="Heatmap visualising the results matrix for top 5 most robustly predicted features only." %}
 
-The two images available below separately visualise the results for syntactic and discoursive features, respectively. This sheds light on the tendency for the alignment to be driven upwards by syntactic features and driven down by discourse-level features. In other words, SBERT and the brain exhibit greater similarities in the representational spaces devoted to tracking syntactic information than in those attuning to discourse-level structures.
+The two images below separately visualise the results for syntactic and discoursive features, respectively. This sheds light on the tendency for the alignment to be driven upwards by syntactic features and driven down by discourse-level features. In other words, SBERT and the brain exhibit greater similarities in the representational spaces devoted to tracking syntactic information than in those attuning to discourse-level structures.
+
+{% include figure image_path="assets/images/matrixsyntax.png" alt="brain image 3" caption="Heatmap visualising the results matrix for the set of syntactic features." %}
+
+{% include figure image_path="assets/images/matrixdiscourse.png" alt="brain image 4" caption="Heatmap visualising the results matrix for the set of discourse-level features." %}
 
 The GithHub repository for the project is available <a href="https://github.com/przemekkubiak/brain-llm-convergence">here</a>. 
 
